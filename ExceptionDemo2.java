@@ -1,0 +1,18 @@
+package com.java;
+
+public class ExceptionDemo2 {
+	
+	public static void main(String[] args) {
+		String str=null;
+		try
+		{
+			System.out.println(str.length());
+		}
+		catch(NullPointerException nl)
+		{
+			System.out.println("str me value nahi hai to me kaise length find karu");
+		}
+
+	}
+
+}
