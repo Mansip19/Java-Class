@@ -18,8 +18,6 @@ public class ArrayInJava7 {
 		}
 
 	}
-// use for each loop for the above matrix to dispaly the matrix
-	// initialize a 3d array in Java
 	
 }
 
