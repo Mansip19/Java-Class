@@ -6,14 +6,6 @@ public class ThisClass {
 	int b;
 	int c;
 	
-	/*
-	 * ThisClass(int a, int b) { this.a=a; //a=10 b=20 this.b=b;
-	 * 
-	 * } void display() { System.out.println(a); System.out.println(b);
-	 * System.out.println(c); }
-	 */
-
-	
 	  ThisClass() 
 	  { 
 		  this(10,20);
